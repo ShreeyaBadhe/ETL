@@ -1,0 +1,4 @@
+city,country,localtime,temperature_c,feelslike_c,humidity,condition,wind_speed_kph,pressure_mb,uv_index
+London,United Kingdom,2025-05-31 18:57,23.3,25.0,50,Partly cloudy,19.1,1013.0,1.0
+New York,United States of America,2025-05-31 13:59,18.9,18.9,61,Partly cloudy,27.4,992.0,4.1
+Tokyo,Japan,2025-06-01 02:59,17.4,17.4,72,Partly cloudy,13.0,1000.0,0.0

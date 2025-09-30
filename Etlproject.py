@@ -13,7 +13,7 @@ DAYS = 7
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '24112001',
+    'password': '*******',
     'database': 'weather_db'
 }
 END_DATE = datetime(2025, 2, 28)
